@@ -1,0 +1,13 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [Date]
+      ,[Sales_USD_cumsum]
+      ,[Number_of_Sales_cumsum]
+      ,[Active_Market_Wallets_cumsum]
+      ,[Primary_Sales_cumsum]
+      ,[Secondary_Sales_cumsum]
+      ,[AverageUSD_cum]
+      ,[Sales_USD]
+      ,[Number_of_Sales]
+      ,[Active_Market_Wallets]
+      ,[Primary_Sales]
+  FROM [NFT Sales].[dbo].[NFT_Sales$]
