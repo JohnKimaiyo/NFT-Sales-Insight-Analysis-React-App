@@ -3,7 +3,7 @@ import "./Header.css";
 export default function Header() {
   return (
     <div>
-      <h2>Big Mart Sales Insight Analysis Business Requests</h2>
+      <h2>NFT Sales Insight Analysis Business Requests</h2>
 
       <table>
         <tr>
@@ -77,7 +77,7 @@ export default function Header() {
 
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/Big-Mart-Sales-Insights-React-App/blob/main/src/Power%20BI%20Dashboard/Big%20%20Mart%20Sales%20Insight.pdf"
+              href="https://github.com/JohnKimaiyo/NFT-Sales-Insight-Analysis-React-App/blob/main/src/Power%20BI%20Dashboard/NFT%20Sales.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -109,7 +109,7 @@ export default function Header() {
           <td>Check out my Power BI Sales Insights Dashbord File</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/Big-Mart-Sales-Insights-React-App/blob/main/src/Power%20BI%20Dashboard/Big%20Mart%20Sales%20Insights.pbix"
+              href="https://github.com/JohnKimaiyo/NFT-Sales-Insight-Analysis-React-App/blob/main/src/Power%20BI%20Dashboard/NFT%20Sales%20Dashboard.pbix"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -122,7 +122,7 @@ export default function Header() {
           <td>Checkout sql statement to clean up the data</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/Big-Mart-Sales-Insights-React-App/blob/main/src/SQL%20Script/bigmart.sql"
+              href="https://github.com/JohnKimaiyo/NFT-Sales-Insight-Analysis-React-App/blob/main/src/SQL%20Scripts/dbo.sql"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -131,11 +131,11 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td> Big Mart Source Files </td>
-          <td> Big Mart Kaggle Dataset</td>
+          <td> NFT  Source Files </td>
+          <td> NFT  Mart Kaggle Dataset</td>
           <td>
             <a
-              href="https://www.kaggle.com/datasets/akashdeepkuila/big-mart-sales"
+              href="https://www.kaggle.com/datasets/mathurinache/nft-history-sales"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -144,11 +144,11 @@ export default function Header() {
           </td>
         </tr>
         <tr>
-          <td> Big Mart JSON Files </td>
-          <td> Big Mart JSON Dataset</td>
+          <td> NFT  JSON Files </td>
+          <td> NFT  Mart JSON Dataset</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/Big-Mart-Sales-Insights-React-App/blob/main/src/Source%20Files/bigmart.json"
+              href="https://github.com/JohnKimaiyo/NFT-Sales-Insight-Analysis-React-App/blob/main/src/Source%20Files/nft.json"
               target="_blank"
               rel="noopener noreferrer"
             >
